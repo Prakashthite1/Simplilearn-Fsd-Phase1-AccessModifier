@@ -3,7 +3,7 @@ package com.Accessmodifier;
 public class PublicAccessModifierExample {
 	
 	//public access modified can provide the accessibility level inside the class,
-			//outside the class to other classes in the same package or the other package as well
+			//outside the class to other classes in the same package or to the other package as well
 			//It is the highest level accessibility in the java
 			
 			// Variable,methods and Constructor
